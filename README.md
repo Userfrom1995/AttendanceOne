@@ -1,4 +1,4 @@
-# fastapi-mongodb-attendance-analytics
+# AttendanceOne
 
 Employee Attendance & Analytics API (FastAPI + MongoDB). All code lives in `app/main.py`.
 
